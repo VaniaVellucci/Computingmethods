@@ -1,2 +1,3 @@
 # Computingmethods
-I create inher.c
+I create https://guides.github.com/features/mastering-markdown/
+
